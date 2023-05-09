@@ -1,0 +1,141 @@
+
+insert into MEMBER values (MEMBER_SEQ.nextval, 'aaa@naver.com', '호두','1234','01012341234',SYSDATE,0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'bbb@naver.com', '스콘','1234','01022221111',SYSDATE,0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'ccc@naver.com', '미미','1234','01033332222',SYSDATE,0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'ddd@naver.com', '젠','1234','01044443333',SYSDATE,0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'eee@naver.com', '응지','1234','01055556666',SYSDATE,0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'fff@naver.com', '화니','1234','01077776666',SYSDATE,0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'ggg@naver.com', '짱구','1234','01088887777',SYSDATE,0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'hhh@naver.com', '코난','1234','01099998888',SYSDATE,0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'iii@naver.com', '패트','1234','01000002222',SYSDATE,0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'jjj@naver.com', '매트','1234','01012343333',SYSDATE,0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'kkk@naver.com', '핑구','1234','01099990000',SYSDATE,0);
+
+insert into MEMBER values (MEMBER_SEQ.nextval, 'mmm@naver.com', '똘기','1234','01012345678','23/01/18',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'nnn@naver.com', '떵이','1234','01022223456','23/01/18',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'ooo@naver.com', '호치','1234','01033334567','23/01/18',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'ppp@naver.com', '새초미','1234','01044443210','23/01/18',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'qqq@naver.com', '드라곤','1234','01055556789','23/01/18',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'rrr@naver.com', '요롱이','1234','01077775432','23/01/18',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'sss@naver.com', '마초','1234','01088884850','23/01/18',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'ttt@naver.com', '미미','1234','01099978524','23/01/18',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'uuu@naver.com', '뭉치','1234','01000001856','23/01/18',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'vvv@naver.com', '키키','1234','01012346841','23/01/18',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'www@naver.com', '강다리','1234','01099998438','23/01/18',0);
+
+insert into MEMBER values (MEMBER_SEQ.nextval, 'xxx@naver.com', '찡찡이','1234','01012348426','23/01/17',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'yyy@naver.com', '미란이','1234','01022227737','23/01/17',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'zzz@naver.com', '월레스','1234','01033332460','23/01/17',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, '111@naver.com', '그로밋','1234','01044486997','23/01/17',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, '222@naver.com', '알라딘','1234','01055559954','23/01/17',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, '333@naver.com', '자스민','1234','01077777527','23/01/17',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, '444@naver.com', '지니','1234','01088881957','23/01/17',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, '555@naver.com', '뭉치','1234','01099999821','23/01/17',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, '666@naver.com', '세모','1234','01000003357','23/01/17',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, '777@naver.com', '아름이','1234','01068413333','23/01/17',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, '888@naver.com', '장미','1234','01088540000','23/01/17',0);
+
+insert into MEMBER values (MEMBER_SEQ.nextval, '999@naver.com', '맹구','1234','01033111234','23/01/16',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, '000@naver.com', '철수','1234','01078251111','23/01/16',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'asd@naver.com', '유리','1234','01038942222','23/01/16',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'zxc@naver.com', '훈이','1234','01023753333','23/01/16',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'abc@naver.com', '흰둥이','1234','01079466666','23/01/16',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'sbd@naver.com', '치타','1234','01097646666','23/01/16',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'sbw@naver.com', '수지','1234','01025897777','23/01/16',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'as23@naver.com', '이슬이','1234','01098528888','23/01/16',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'aa123@naver.com', '진구','1234','01046852222','23/01/16',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'bb33@naver.com', '퉁퉁이','1234','01013253333','23/01/16',0);
+insert into MEMBER values (MEMBER_SEQ.nextval, 'dd44@naver.com', '뚱이','1234','01099810000','23/01/16',0);
+
+
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'aaa@naver.com',1,'화이트','아메리칸','양상추','머스타드',5,1,7000,1,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'bbb@naver.com',10,'허니오트','모짜렐라','양상추','머스타드',0,1,5000,4,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'eee@naver.com',3,'플랫','아메리칸','오이','랜치',5,1,7000,2,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'ccc@naver.com',4,'화이트','아메리칸','양상추','랜치',1,1,7000,3,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'ddd@naver.com',5,'화이트','슈레드','양상추','랜치',2,1,7000,2,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'aaa@naver.com',6,'위트','슈레드','토마토','핫칠리',4,2,14000,2,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'bbb@naver.com',7,'허니오트','아메리칸','토마토','머스타드',3,1,7000,1,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'fff@naver.com',8,'화이트','아메리칸','양상추','머스타드',1,3,21000,2,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'ccc@naver.com',9,'파마산오레가노','슈레드','피망','머스타드',5,1,7000,1,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'ggg@naver.com',10,'플랫','모짜렐라','양상추,오이','스위트어니언',3,1,7000,2,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'jjj@naver.com',10,'화이트','아메리칸','할라피뇨','머스타드',4,1,7000,2,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'jjj@naver.com',8,'허니오트','아메리칸','양상추,토마토','머스타드',0,1,5000,2,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'jjj@naver.com',2,'파마산오레가노','아메리칸','할라피뇨','머스타드',1,1,7000,2,CURRENT_TIMESTAMP);
+insert into PAYLOG values (PAY_SEQ.nextval,11001,'kkk@naver.com',8,'화이트','아메리칸','양상추','머스타드',2,5,35000,2,CURRENT_TIMESTAMP);
+
+insert into paylog values (pay_seq.nextval, 11001, 'ggg@naver.com', 1, '허니오트', '모짜렐라', '피망', '스위트 어니언', 0, 2, 10000, 1, '23/01/19');
+insert into paylog values (pay_seq.nextval, 11001, 'aaa@naver.com', 10, '플랫브레드', '슈레드', '토마토', '스모크바베큐', 0, 2, 10000, 4, '23/01/19');
+insert into paylog values (pay_seq.nextval, 11001, '111@naver,com', 3, '화이트', '아메리칸', '양상추, 토마토', '허니 머스타드', 2, 2, 14000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 11001, 'fff@naver.com', 3, '하티', '모짜렐라', '토마토, 피클', '스위트 칠리', 0, 5, 25000, 3, '23/01/19');
+insert into paylog values (pay_seq.nextval, 11001, '444@naver.com', 6, '위트', '모짜렐라', '피클, 할라피뇨', '스모크 바비큐', 1, 3, 21000, 4, '23/01/17');
+insert into paylog values (pay_seq.nextval, 11001, 'sbd@naver.com', 7, '파마산오레가노', '아메리칸', '양상추', '스위트 어니언', 3, 1, 7000, 1, '23/01/18');
+insert into paylog values (pay_seq.nextval, 11001, 'aaa@naver.com', 8, '하티','슈레드', '토마토', '스모크바베큐', 0, 2, 10000, 4, '23/01/19');
+insert into paylog values (pay_seq.nextval, 11001, '999@naver.com', 9, '파마산오레가노', '모짜렐라', '양파, 양상추', '랜치', 2, 2, 14000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 11001, 'dd44@naver.com', 2, '허니오트', '모짜렐라', '오이, 피망, 양상추', '랜치', 5, 1, 7000, 3, '23/01/18');
+insert into paylog values (pay_seq.nextval, 11001, 'sss@naver.com', 3, '위트', '슈레드', '토마토, 오이, 할라피뇨', '허니 머스타드', 2, 3, 21000, 4, '23/01/18');
+
+insert into paylog values (pay_seq.nextval, 11002, 'zzz@naver.com', 0, '플랫브레드', '슈레드', '토마토, 양상추','마요네즈', 0, 4, 20000, 1, '23/01/18');
+insert into paylog values (pay_seq.nextval, 11002, '666@naver.com', 3, '화이트', '아메리칸', '피망, 토마토', '핫칠리' , 0, 1, 5000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 11002, 'www@naver.com', 1, '파마산오레가노', '아메리칸', '할라피뇨', '허니 머스타드', 2, 6, 42000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 11002, '333@naver.com', 1, '플랫브레드', '슈레드', '양파, 오이', '스위트 칠리', 1, 2, 14000, 1, '23/01/17');
+insert into paylog values (pay_seq.nextval, 11002, 'sbw@naver.com', 4, '플랫브레드', '슈레드', '양상추, 토마토, 오이, 양파', '스위트 어니언', 2, 2, 14000, 2, '23/01/17');
+insert into paylog values (pay_seq.nextval, 11002, 'abc@naver.com', 8, '위트', '아메리칸', '토마토, 할라피뇨', '스위트 어니언', 2, 3, 21000, 3, '23/01/16');
+insert into paylog values (pay_seq.nextval, 11002, 'uuu@naver.com', 6, '허니오트', '슈레드', '피망, 양파', '스모크 바비큐', 0, 5, 25000, 4, '23/01/18');
+insert into paylog values (pay_seq.nextval, 11002, 'zzz@naver.com', 3, '파마산오레가노', '모짜렐라', '양파, 토마토, 할라피뇨', '랜치', 3, 1, 7000, 1, '23/01/19');
+insert into paylog values (pay_seq.nextval, 11002, '111@naver.com', 3, '플랫브레드', '아메리칸', '양상추, 피망', '허니 머스타드', 5, 2, 14000, 3, '23/01/17');
+insert into paylog values (pay_seq.nextval, 11002, '999@naver.com', 2, '하티', '슈레드', '오이, 양파, 토마토', '스위트 어니언', 4, 3, 21000, 4, '23/01/17');
+
+insert into paylog values (pay_seq.nextval, 11003, 'asd@naver.com', 1, '허니오트', '슈레드', '토마토', '허니 머스타드', 0, 3, 15000, 4, '23/01/18');
+insert into paylog values (pay_seq.nextval, 11003, 'xxx@naver.com', 4, '파마산오레가노', '아메리칸', '양상추', '스위트 어니언', 3, 3, 21000, 2, '23/01/19');
+insert into paylog values (pay_seq.nextval, 11003, 'rrr@naver.com', 3, '허니오트', '모짜렐라', '양상추, 피클, 토마토', '마요네즈', 5, 2, 14000, 1, '23/01/18');
+insert into paylog values (pay_seq.nextval, 11003, 'yyy@naver.com', 4, '하티', '아메리칸', '피망, 양파', '스모크 바비큐', 1, 1, 7000, 4, '23/01/17');
+insert into paylog values (pay_seq.nextval, 11003, '777@naver.com', 9, '허니오트', '모짜렐라', '양상추, 양파', '랜치', 0, 5, 25000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 11003, '222@naver.com', 10, '하티', '슈레드', '토마토, 양파', '스위트 칠리', 1, 1, 7000, 2, '23/01/17');
+insert into paylog values (pay_seq.nextval, 11003, '333@naver.com', 2, '파마산오레가노', '모짜렐라', '양상추, 토마토', '핫칠리' , 0, 4, 20000, 4, '23/01/17');
+insert into paylog values (pay_seq.nextval, 11003, 'asd@naver.com', 10, '허니오트', '모짜렐라', '피클', '스위트 어니언', 0, 2, 10000, 1, '23/01/16');
+insert into paylog values (pay_seq.nextval, 11003, 'abc@naver.com', 8, '화이트', '슈레드', '양파, 피클', '허니 머스타드', 0, 3, 15000, 4, '23/01/16');
+insert into paylog values (pay_seq.nextval, 11003, '777@naver.com', 6, '파마산오레가노', '슈레드', '피클, 할라피뇨','스모크 바비큐', 5, 4, 28000, 3, '23/01/19');
+
+insert into paylog values (pay_seq.nextval, 31001, '000@naver.com', 7, '하티', '모짜렐라', '토마토, 할라피뇨', '스위트 칠리', 0, 2, 10000, 2, '23/01/16');
+insert into paylog values (pay_seq.nextval, 31001, 'aa123@naver.com', 1, '허니오트', '모짜렐라', '토마토, 양상추', '스모크 바비큐', 4, 4, 28000, 1, '23/01/16');
+insert into paylog values (pay_seq.nextval, 31001, 'kkk@naver.com', 9, '플랫브레드', '모짜렐라', '양파, 피클, 토마토', '마요네즈', 0, 1, 5000, 3, '23/01/19');
+insert into paylog values (pay_seq.nextval, 31001, 'aa123@naver.com', 8, '하티', '모짜렐라', '양파, 오이', '허니 머스타드', 1, 3, 21000, 4, '23/01/17');
+insert into paylog values (pay_seq.nextval, 31001, 'ooo@naver.com', 4, '위트', '아메리칸', '양파, 피클, 할라피뇨', '랜치', 3, 6, 42000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 31001, 'aa123@naver.com', 7, '파마산오레가노', '슈레드', '양파, 토마토', '마요네즈', 4, 3, 21000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 31001, 'bb33@naver.com', 3, '플랫브레드', '슈레드', '할라피뇨, 피클', '스모크 바비큐', 5, 2, 14000, 1, '23/01/17');
+insert into paylog values (pay_seq.nextval, 31001, '000@naver.com', 5, '화이트', '모짜렐라', '토마토, 피클', '스위트 칠리', 0, 8, 40000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 31001, '444@naver.com', 7, '위트', '아메리칸', '할라피뇨', '허니 머스타드', 1, 2, 14000, 1, '23/01/18');
+insert into paylog values (pay_seq.nextval, 31001, 'hhh@naver.com', 1, '허니오트', '모짜렐라', '양상추, 할라피뇨', '스모크 바비큐', 4, 3, 21000, 3, '23/01/19');
+
+insert into paylog values (pay_seq.nextval, 33001, 'iii@naver.com', 3, '플랫브레드', '슈레드', '양파, 토마토', '스위트 어니언', 5, 1, 7000, 1, '23/01/19');
+insert into paylog values (pay_seq.nextval, 33001, 'iii@naver.com', 8, '파마산오레가노', '슈레드', '토마토', '핫칠리' , 0, 3, 15000, 3, '23/01/18');
+insert into paylog values (pay_seq.nextval, 33001, 'vvv@naver.com', 4, '위트', '모짜렐라', '양상추, 피클', '허니 머스타드', 1, 3, 21000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 33001, 'dd44@naver.com', 6, '파마산오레가노', '모짜렐라', '토마토, 양상추', '핫칠리' , 0, 4, 20000, 4, '23/01/18');
+insert into paylog values (pay_seq.nextval, 33001, '666@naver.com', 7, '화이트', '모짜렐라', '토마토, 할라피뇨', '스위트 어니언', 4, 2, 14000, 4, '23/01/17');
+insert into paylog values (pay_seq.nextval, 33001, '888@naver.com', 4, '플랫브레드', '아메리칸', '양상추', '스위트 칠리', 1, 2, 14000, 1, '23/01/18');
+insert into paylog values (pay_seq.nextval, 33001, 'nnn@naver.com', 7, '허니오트', '모짜렐라', '양상추, 할라피뇨', '핫칠리' , 0, 1, 5000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 33001, 'qqq@naver.com', 2, '위트', '모짜렐라', '토마토, 피망', '스모크 바비큐', 3, 1, 7000, 3, '23/01/18');
+insert into paylog values (pay_seq.nextval, 33001, 'ppp@naver.com', 8, '화이트', '아메리칸', '피망, 오이', '랜치', 0, 1, 5000, 3, '23/01/18');
+insert into paylog values (pay_seq.nextval, 33001, 'dd44@naver.com', 10, '파마산오레가노', '모짜렐라', '양상추, 오이, 토마토', '스위트 어니언', 4, 2, 14000, 1, '23/01/19');
+
+insert into paylog values (pay_seq.nextval, 22001, '555@naver.com', 8, '하티', '모짜렐라', '피클', '스위트 어니언', 1, 2, 14000, 1, '23/01/18');
+insert into paylog values (pay_seq.nextval, 22001, 'yyy@naver.com', 2, '허니오트', '아메리칸', '토마토, 피망', '핫칠리' , 4, 3, 21000, 3, '23/01/17');
+insert into paylog values (pay_seq.nextval, 22001, 'mmm@naver.com', 6, '하티', '슈레드', '양상추, 오이', '허니 머스타드', 0, 1, 5000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 22001, '222@naver.com', 4, '화이트', '슈레드', '토마토, 할라피뇨', '랜치', 1, 4, 28000, 4, '23/01/19');
+insert into paylog values (pay_seq.nextval, 22001, 'jjj@naver.com', 3, '허니오트', '슈레드', '피클, 오이', '스위트 어니언', 3, 4, 28000, 3, '23/01/19');
+insert into paylog values (pay_seq.nextval, 22001, '777@naver.com', 5, '위트', '모짜렐라', '할라피뇨, 피클, 양상추', '핫칠리', 3, 3 21000, 2, '23/01/17');
+insert into paylog values (pay_seq.nextval, 22001, '555@naver.com', 6, '위트', '슈레드', '토마토, 피망', '허니 머스타드', 0, 1, 5000, 3), '23/01/17');
+insert into paylog values (pay_seq.nextval, 22001, 'vvv@naver.com', 1, '플랫브레드', '아메리칸', '토마토', '스모크 바비큐', 4, 5, 35000, 3, '23/01/19');
+insert into paylog values (pay_seq.nextval, 22001, '888@naver.com', 8, '위트', '아메리칸', '양상추, 피클', '랜치', 0, 1, 5000, 2, '23/01/17');
+insert into paylog values (pay_seq.nextval, 22001, 'qqq@naver.com', 1, '하티', '슈레드', '토마토, 오이', '허니 머스타드', 5, 3, 21000, 4, '23/01/19');
+
+insert into paylog values (pay_seq.nextval, 25001, '000@naver.com', 1, '플랫브레드', '모짜렐라', '토마토, 양상추', '허니 머스타드', 1, 2, 14000, 1, '23/01/17');
+insert into paylog values (pay_seq.nextval, 25001, 'sss@naver.com', 1, '허니오트', '슈레드'), '양파, 오이', '스모크 바비큐', 4, 3, 21000, 3, '23/01/19');
+insert into paylog values (pay_seq.nextval, 25001, 'abc@naver.com', 2, '하티', '모짜렐라', '오이, 할라피뇨', '스위트 칠리', 1, 5, 35000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 25001, 'kkk@naver.com', 3, '하티', '슈레드', '오이', '스위트 어니언', 0, 1, 5000, 4, '23/01/19');
+insert into paylog values (pay_seq.nextval, 25001, 'mmm@naver.com', 0, '허니오트', '슈레드', '토마토, 할라피뇨', '마요네즈', 2, 1, 7000, 4, '23/01/19');
+insert into paylog values (pay_seq.nextval, 25001, '999@naver.com', 3, '플랫브레드', '아메리칸', '피클, 할라피뇨', '스모크 바비큐', 4, 1, 7000, 2, '23/01/18');
+insert into paylog values (pay_seq.nextval, 25001, 'zxc@naver.com', 1, '플랫브레드', '모짜렐라', '토마토', '허니 머스타드', 1, 1, 5000, 4, '23/01/17');
+insert into paylog values (pay_seq.nextval, 25001, 'ooo@naver.com', 1, '파마산오레가노', '모짜렐라', '피클, 양상추', '핫칠리' , 1, 3, 21000, 3, '23/01/19');
+insert into paylog values (pay_seq.nextval, 25001, 'ttt@naver.com', 5, '파마산오레가노', '아메리칸', '오이, 양파', '스위트 칠리', 3, 4,28000 2, 결제일('23/01/18');
+insert into paylog values (pay_seq.nextval, 25001, 'www@naver.com', 9, '위트', '모짜렐라', '양파, 토마토', '스위트 어니언', 0, 4, 20000, 4, '23/01/18');

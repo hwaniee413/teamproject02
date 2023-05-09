@@ -1,0 +1,16 @@
+
+drop table CART;
+drop sequence O_SEQ;
+drop table PAYLOG;
+drop table FRANCHISE;
+drop table MIMICOMPANY;
+drop table PAYMENT;
+drop table SET_MENU;
+drop table MENU; 
+
+drop table LoginInfo;
+drop sequence MEMBER_SEQ;
+drop table MEMBER;
+
+purge recyclebin;
+select tname from tab;
